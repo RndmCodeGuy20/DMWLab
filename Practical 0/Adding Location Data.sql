@@ -1,0 +1,16 @@
+INSERT INTO locations_table (location_id, continent, country, state, city, dollars_sold)
+VALUES (1, 'North America', 'USA', 'California', 'Los Angeles', 50000),
+       (2, 'North America', 'USA', 'New York', 'New York City', 75000),
+       (3, 'North America', 'Canada', 'Ontario', 'Toronto', 25000),
+       (4, 'Europe', 'UK', 'England', 'London', 60000),
+       (5, 'Europe', 'France', 'Ile-de-France', 'Paris', 45000),
+       (6, 'Europe', 'Germany', 'Berlin', 'Berlin', 35000),
+       (7, 'Asia', 'China', 'Shanghai', 'Shanghai', 80000),
+       (8, 'Asia', 'Japan', 'Tokyo', 'Tokyo', 70000),
+       (9, 'Asia', 'India', 'Maharashtra', 'Mumbai', 40000),
+       (10, 'South America', 'Brazil', 'São Paulo', 'São Paulo', 30000),
+       (11, 'South America', 'Argentina', 'Buenos Aires', 'Buenos Aires', 20000),
+       (12, 'Africa', 'South Africa', 'Western Cape', 'Cape Town', 10000),
+       (13, 'Africa', 'Egypt', 'Cairo', 'Cairo', 15000),
+       (14, 'Oceania', 'Australia', 'New South Wales', 'Sydney', 55000),
+       (15, 'Oceania', 'New Zealand', 'Auckland', 'Auckland', 20000);
