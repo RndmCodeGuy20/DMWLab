@@ -2,4 +2,13 @@ SELECT *
 FROM products;
 
 SELECT *
+FROM locations;
+
+SELECT *
+FROM times;
+
+SELECT *
 FROM sales;
+
+INSERT INTO sales (PID, LOCID, TIMEID, SALES_DOLLARS)
+VALUES (10, 224, 20, 13 * 25);
